@@ -1,5 +1,8 @@
 # ninja log v5
 6	1746	7341975850464640	Sockets/CMakeFiles/Sockets.dir/Sockets.cpp.obj	a8c34604ef602705
-12	74	7341976396760873	Net/CMakeFiles/Net.dir/Net.cpp.obj	4ccf8a9596b06337
 10	64	7341977120353967	Net/CMakeFiles/Net.dir/Net.cpp.obj	4ccf8a9596b06337
 64	351	7341977123063233	Net/Net.exe	a8af595af0ebc54f
+30	1921	7341992606610110	Net/CMakeFiles/Net.dir/Net.cpp.obj	4ccf8a9596b06337
+1922	3018	7341992617439058	Net/Net.exe	a8af595af0ebc54f
+34	608	7342032804113639	Net/CMakeFiles/Net.dir/Net.cpp.obj	4ccf8a9596b06337
+609	807	7342032805717678	Net/Net.exe	a8af595af0ebc54f
