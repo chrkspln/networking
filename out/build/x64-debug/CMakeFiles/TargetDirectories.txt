@@ -9,3 +9,6 @@ C:/Users/polin/source/repos/Networking/out/build/x64-debug/Client/CMakeFiles/reb
 C:/Users/polin/source/repos/Networking/out/build/x64-debug/Server/CMakeFiles/Server.dir
 C:/Users/polin/source/repos/Networking/out/build/x64-debug/Server/CMakeFiles/edit_cache.dir
 C:/Users/polin/source/repos/Networking/out/build/x64-debug/Server/CMakeFiles/rebuild_cache.dir
+C:/Users/polin/source/repos/Networking/out/build/x64-debug/Net/CMakeFiles/Net.dir
+C:/Users/polin/source/repos/Networking/out/build/x64-debug/Net/CMakeFiles/edit_cache.dir
+C:/Users/polin/source/repos/Networking/out/build/x64-debug/Net/CMakeFiles/rebuild_cache.dir

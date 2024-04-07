@@ -1,9 +1,9 @@
-﻿# CMakeList.txt : CMake project for Sockets, include source and define
+# CMakeList.txt : CMake project for Sockets, include source and define
 # project specific logic here.
 #
 
 # Add source to this project's executable.
-add_executable (Net "Net.h")
+add_executable (Net "Net.cpp" "Net.h")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET Net PROPERTY CXX_STANDARD 23)

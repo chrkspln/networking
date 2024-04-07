@@ -37,6 +37,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Users/polin/source/repos/Networking/out/build/x64-debug/Sockets/cmake_install.cmake")
   include("C:/Users/polin/source/repos/Networking/out/build/x64-debug/Client/cmake_install.cmake")
   include("C:/Users/polin/source/repos/Networking/out/build/x64-debug/Server/cmake_install.cmake")
+  include("C:/Users/polin/source/repos/Networking/out/build/x64-debug/Net/cmake_install.cmake")
 
 endif()
 
