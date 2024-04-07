@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Networking/copilot-chat/89d0a19c/sessions
+/.vs/Networking/FileContentIndex
+/.vs/Networking/v17
+/out/build/x64-debug/.cmake/api/v1/reply
