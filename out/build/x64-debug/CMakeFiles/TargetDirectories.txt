@@ -1,14 +1,11 @@
 C:/Users/polin/source/repos/Networking/out/build/x64-debug/CMakeFiles/edit_cache.dir
 C:/Users/polin/source/repos/Networking/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/polin/source/repos/Networking/out/build/x64-debug/Server/CMakeFiles/Server.dir
+C:/Users/polin/source/repos/Networking/out/build/x64-debug/Server/CMakeFiles/edit_cache.dir
+C:/Users/polin/source/repos/Networking/out/build/x64-debug/Server/CMakeFiles/rebuild_cache.dir
 C:/Users/polin/source/repos/Networking/out/build/x64-debug/Sockets/CMakeFiles/Sockets.dir
 C:/Users/polin/source/repos/Networking/out/build/x64-debug/Sockets/CMakeFiles/edit_cache.dir
 C:/Users/polin/source/repos/Networking/out/build/x64-debug/Sockets/CMakeFiles/rebuild_cache.dir
 C:/Users/polin/source/repos/Networking/out/build/x64-debug/Client/CMakeFiles/Client.dir
 C:/Users/polin/source/repos/Networking/out/build/x64-debug/Client/CMakeFiles/edit_cache.dir
 C:/Users/polin/source/repos/Networking/out/build/x64-debug/Client/CMakeFiles/rebuild_cache.dir
-C:/Users/polin/source/repos/Networking/out/build/x64-debug/Server/CMakeFiles/Server.dir
-C:/Users/polin/source/repos/Networking/out/build/x64-debug/Server/CMakeFiles/edit_cache.dir
-C:/Users/polin/source/repos/Networking/out/build/x64-debug/Server/CMakeFiles/rebuild_cache.dir
-C:/Users/polin/source/repos/Networking/out/build/x64-debug/Net/CMakeFiles/Net.dir
-C:/Users/polin/source/repos/Networking/out/build/x64-debug/Net/CMakeFiles/edit_cache.dir
-C:/Users/polin/source/repos/Networking/out/build/x64-debug/Net/CMakeFiles/rebuild_cache.dir

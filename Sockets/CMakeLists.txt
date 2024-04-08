@@ -2,8 +2,8 @@
 # project specific logic here.
 #
 
-# Add source to this project's executable.
-add_executable (Sockets "Sockets.cpp" "Sockets.h")
+add_library (Sockets STATIC "Sockets.cpp" "Sockets.h")
+target_include_directories (Sockets PUBLIC ${CMAKE_CURRENT_LIST_DIR})
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET Sockets PROPERTY CXX_STANDARD 23)

@@ -7,11 +7,19 @@
 #pragma comment(lib, "ws2_32.lib")
 
 #define WIN32_LEAN_AND_MEAN
-#define INVALID_SOCKET
 #include <WinSock2.h>
 #include <iostream>
+#include <assert.h>
 
-#include "../Net/Net.h"
+namespace Net {
+	bool winsock_init();
+	typedef SOCKET socket;
+
+	enum IP_version {
+		IPv4,
+		IPv6
+	};
+}
 
 class Socket
 {
@@ -25,4 +33,5 @@ public:
 	Net::socket get_socket();
 	Net::IP_version get_IP_version();
 	SOCKET init_socket(Net::IP_version IP_version, int protocol);
+	bool close_socket();
 };
